@@ -99,6 +99,9 @@ header {
 }
 
 .botao-pedir {
-    display: inline-block;
-    justify-content: center;
+    margin-top: 40px;
+    display: block;
+    text-align: center;
+    width: 100%;
+    border-radius: 10px;
 }
